@@ -1,2 +1,2 @@
 # forTesting
-[www.thethugcommander.com]("My website")
+[My website](www.thethugcommander.com "Only you")
